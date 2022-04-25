@@ -1,0 +1,52 @@
+[0.195s] Invoking command in '/home/sadurac/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/basic_mobile_robot -- -j4 -l4
+[1.180s] Invoked command in '/home/sadurac/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/basic_mobile_robot -- -j4 -l4
+[1.234s] Invoking command in '/home/sadurac/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/basic_mobile_robot
+[1.298s] -- Install configuration: ""
+[1.298s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/config
+[1.299s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch
+[1.299s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/launch/basic_mobile_bot_v2.launch.py
+[1.299s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/maps
+[1.299s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/meshes
+[1.300s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models
+[1.300s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description
+[1.300s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/meshes
+[1.300s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/model.sdf
+[1.316s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_description/model.config
+[1.316s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera
+[1.317s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/thumbnails
+[1.317s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/thumbnails/1.png
+[1.354s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/thumbnails/5.png
+[1.362s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/thumbnails/3.png
+[1.376s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/thumbnails/2.png
+[1.403s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/thumbnails/4.png
+[1.404s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/meshes
+[1.405s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/meshes/3dCamera.DAE
+[1.419s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/model.sdf
+[1.419s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/model.config
+[1.420s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/materials
+[1.420s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/materials/textures
+[1.430s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/RGBD_Camera/materials/textures/3dCamera.png
+[1.449s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/models/basic_mobile_bot_v1.urdf
+[1.449s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/params
+[1.450s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz
+[1.450s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/rviz/urdf_config.rviz
+[1.451s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/src
+[1.451s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds
+[1.451s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds/basic_mobile_bot_world
+[1.451s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/worlds/basic_mobile_bot_world/simple.world
+[1.470s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/package_run_dependencies/basic_mobile_robot
+[1.471s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/parent_prefix_path/basic_mobile_robot
+[1.472s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.sh
+[1.472s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/ament_prefix_path.dsv
+[1.473s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.sh
+[1.474s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/environment/path.dsv
+[1.474s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.bash
+[1.474s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.sh
+[1.474s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.zsh
+[1.475s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/local_setup.dsv
+[1.475s] -- Installing: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.dsv
+[1.536s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/ament_index/resource_index/packages/basic_mobile_robot
+[1.537s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig.cmake
+[1.538s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/cmake/basic_mobile_robotConfig-version.cmake
+[1.539s] -- Up-to-date: /home/sadurac/dev_ws/install/basic_mobile_robot/share/basic_mobile_robot/package.xml
+[1.549s] Invoked command in '/home/sadurac/dev_ws/build/basic_mobile_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/basic_mobile_robot

@@ -1,0 +1,12 @@
+[0.111s] Invoking command in '/home/sadurac/dev_ws/build/turtlesim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/turtlesim -- -j4 -l4
+[0.250s] [  1%] Built target turtlesim__cpp
+[0.304s] [ 11%] Built target turtlesim__rosidl_generator_c
+[0.324s] [ 21%] Built target turtlesim__rosidl_typesupport_cpp
+[0.355s] [ 31%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[0.372s] make[2]: *** No rule to make target '/opt/ros/foxy/lib/libfoonathan_memory-0.6.2.a', needed by 'libturtlesim__rosidl_typesupport_fastrtps_cpp.so'.  Stop.
+[0.373s] make[1]: *** [CMakeFiles/Makefile2:619: CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/all] Error 2
+[0.374s] make[1]: *** Waiting for unfinished jobs....
+[0.406s] [ 51%] Built target turtlesim__rosidl_typesupport_c
+[0.406s] [ 51%] Built target turtlesim__rosidl_typesupport_introspection_c
+[0.408s] make: *** [Makefile:141: all] Error 2
+[0.411s] Invoked command in '/home/sadurac/dev_ws/build/turtlesim' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/turtlesim -- -j4 -l4

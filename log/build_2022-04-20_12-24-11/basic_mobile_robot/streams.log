@@ -1,0 +1,33 @@
+[0.058s] Invoking command in '/home/sadurac/dev_ws/build/basic_mobile_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/basic_mobile_robot -- -j4 -l4
+[0.106s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.144s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.435s] -- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.997s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.003s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.783s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.979s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.021s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.330s] -- Found image_transport: 2.3.0 (/opt/ros/foxy/share/image_transport/cmake)
+[2.568s] -- Found cv_bridge: 2.2.1 (/opt/ros/foxy/share/cv_bridge/cmake)
+[2.616s] CMake Error at CMakeLists.txt:25 (find_package):
+[2.616s]   By not providing "Findopencv2.cmake" in CMAKE_MODULE_PATH this project has
+[2.616s]   asked CMake to find a package configuration file provided by "opencv2", but
+[2.616s]   CMake did not find one.
+[2.616s] 
+[2.616s]   Could not find a package configuration file provided by "opencv2" with any
+[2.616s]   of the following names:
+[2.616s] 
+[2.616s]     opencv2Config.cmake
+[2.616s]     opencv2-config.cmake
+[2.617s] 
+[2.617s]   Add the installation prefix of "opencv2" to CMAKE_PREFIX_PATH or set
+[2.617s]   "opencv2_DIR" to a directory containing one of the above files.  If
+[2.617s]   "opencv2" provides a separate development package or SDK, be sure it has
+[2.617s]   been installed.
+[2.617s] 
+[2.617s] 
+[2.618s] -- Configuring incomplete, errors occurred!
+[2.618s] See also "/home/sadurac/dev_ws/build/basic_mobile_robot/CMakeFiles/CMakeOutput.log".
+[2.618s] See also "/home/sadurac/dev_ws/build/basic_mobile_robot/CMakeFiles/CMakeError.log".
+[2.624s] make: *** [Makefile:222: cmake_check_build_system] Error 1
+[2.626s] Invoked command in '/home/sadurac/dev_ws/build/basic_mobile_robot' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/basic_mobile_robot -- -j4 -l4

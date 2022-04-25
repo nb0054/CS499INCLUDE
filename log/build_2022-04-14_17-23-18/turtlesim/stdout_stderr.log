@@ -1,0 +1,10 @@
+[  1%] Built target turtlesim__cpp
+[ 11%] Built target turtlesim__rosidl_generator_c
+[ 21%] Built target turtlesim__rosidl_typesupport_cpp
+[ 31%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+make[2]: *** No rule to make target '/opt/ros/foxy/lib/libfoonathan_memory-0.6.2.a', needed by 'libturtlesim__rosidl_typesupport_fastrtps_cpp.so'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:619: CMakeFiles/turtlesim__rosidl_typesupport_fastrtps_cpp.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 51%] Built target turtlesim__rosidl_typesupport_c
+[ 51%] Built target turtlesim__rosidl_typesupport_introspection_c
+make: *** [Makefile:141: all] Error 2

@@ -1,0 +1,6 @@
+[  1%] Built target turtlesim__cpp
+[ 11%] Built target turtlesim__rosidl_generator_c
+[ 21%] Built target turtlesim__rosidl_typesupport_cpp
+[ 31%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[ 51%] Built target turtlesim__rosidl_typesupport_c
+[ 51%] Built target turtlesim__rosidl_typesupport_introspection_c

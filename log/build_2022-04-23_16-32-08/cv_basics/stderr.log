@@ -1,0 +1,5 @@
+  File "/home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_sub.py", line 104
+    for output in outputs
+                        ^
+SyntaxError: invalid syntax
+

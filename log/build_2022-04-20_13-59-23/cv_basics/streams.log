@@ -1,0 +1,41 @@
+[3.074s] Invoking command in '/home/sadurac/dev_ws/src/cv_basics': PYTHONPATH=/home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/sadurac/dev_ws/build/cv_basics/build install --prefix /home/sadurac/dev_ws/install/cv_basics --record /home/sadurac/dev_ws/build/cv_basics/install.log --single-version-externally-managed
+[3.334s] running egg_info
+[3.335s] creating ../../build/cv_basics/cv_basics.egg-info
+[3.335s] writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+[3.335s] writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+[3.336s] writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+[3.336s] writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt
+[3.336s] writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt
+[3.392s] writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[3.449s] reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[3.450s] writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[3.450s] running build
+[3.450s] running build_py
+[3.450s] creating /home/sadurac/dev_ws/build/cv_basics/build
+[3.450s] creating /home/sadurac/dev_ws/build/cv_basics/build/lib
+[3.450s] creating /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics
+[3.451s] copying cv_basics/webcam_pub.py -> /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics
+[3.451s] copying cv_basics/webcam_sub.py -> /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics
+[3.451s] copying cv_basics/__init__.py -> /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics
+[3.451s] running install
+[3.452s] running install_lib
+[3.453s] creating /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+[3.453s] copying /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics/webcam_pub.py -> /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+[3.453s] copying /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics/webcam_sub.py -> /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+[3.454s] copying /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics/__init__.py -> /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+[3.454s] byte-compiling /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_pub.py to webcam_pub.cpython-38.pyc
+[3.456s] byte-compiling /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_sub.py to webcam_sub.cpython-38.pyc
+[3.482s] byte-compiling /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/__init__.py to __init__.cpython-38.pyc
+[3.482s] running install_data
+[3.483s] creating /home/sadurac/dev_ws/install/cv_basics/share/ament_index
+[3.483s] creating /home/sadurac/dev_ws/install/cv_basics/share/ament_index/resource_index
+[3.483s] creating /home/sadurac/dev_ws/install/cv_basics/share/ament_index/resource_index/packages
+[3.483s] copying resource/cv_basics -> /home/sadurac/dev_ws/install/cv_basics/share/ament_index/resource_index/packages
+[3.484s] copying package.xml -> /home/sadurac/dev_ws/install/cv_basics/share/cv_basics
+[3.484s] running install_egg_info
+[3.485s] Copying ../../build/cv_basics/cv_basics.egg-info to /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info
+[3.486s] running install_scripts
+[3.508s] Installing img_publisher script to /home/sadurac/dev_ws/install/cv_basics/lib/cv_basics
+[3.508s] Installing img_subscriber script to /home/sadurac/dev_ws/install/cv_basics/lib/cv_basics
+[3.508s] writing list of installed files to '/home/sadurac/dev_ws/build/cv_basics/install.log'
+[3.542s] Invoked command in '/home/sadurac/dev_ws/src/cv_basics' returned '0': PYTHONPATH=/home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/sadurac/dev_ws/build/cv_basics/build install --prefix /home/sadurac/dev_ws/install/cv_basics --record /home/sadurac/dev_ws/build/cv_basics/install.log --single-version-externally-managed

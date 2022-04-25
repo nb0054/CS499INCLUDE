@@ -1,0 +1,46 @@
+[0.073s] Invoking command in '/home/sadurac/dev_ws/build/husky-robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake /home/sadurac/dev_ws/src/husky-robot -DCMAKE_INSTALL_PREFIX=/home/sadurac/dev_ws/install/husky-robot
+[0.176s] -- The C compiler identification is GNU 9.3.0
+[0.313s] -- The CXX compiler identification is GNU 9.3.0
+[0.321s] -- Check for working C compiler: /usr/bin/cc
+[0.479s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.480s] -- Detecting C compiler ABI info
+[0.621s] -- Detecting C compiler ABI info - done
+[0.650s] -- Detecting C compile features
+[0.650s] -- Detecting C compile features - done
+[0.653s] -- Check for working CXX compiler: /usr/bin/c++
+[0.776s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.778s] -- Detecting CXX compiler ABI info
+[0.906s] -- Detecting CXX compiler ABI info - done
+[0.924s] -- Detecting CXX compile features
+[0.925s] -- Detecting CXX compile features - done
+[0.932s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.985s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.986s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.373s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.507s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.511s] -- Added test 'lint_cmake' to check CMake code style
+[1.514s] -- Added test 'xmllint' to check XML markup files
+[1.518s] -- Configuring done
+[1.520s] -- Generating done
+[1.521s] -- Build files have been written to: /home/sadurac/dev_ws/build/husky-robot
+[1.526s] Invoked command in '/home/sadurac/dev_ws/build/husky-robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake /home/sadurac/dev_ws/src/husky-robot -DCMAKE_INSTALL_PREFIX=/home/sadurac/dev_ws/install/husky-robot
+[1.529s] Invoking command in '/home/sadurac/dev_ws/build/husky-robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/husky-robot -- -j4 -l4
+[1.648s] Invoked command in '/home/sadurac/dev_ws/build/husky-robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/husky-robot -- -j4 -l4
+[1.687s] Invoking command in '/home/sadurac/dev_ws/build/husky-robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/husky-robot
+[1.701s] -- Install configuration: ""
+[1.701s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/ament_index/resource_index/package_run_dependencies/husky-robot
+[1.702s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/ament_index/resource_index/parent_prefix_path/husky-robot
+[1.702s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/environment/ament_prefix_path.sh
+[1.702s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/environment/ament_prefix_path.dsv
+[1.703s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/environment/path.sh
+[1.703s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/environment/path.dsv
+[1.703s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/local_setup.bash
+[1.704s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/local_setup.sh
+[1.704s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/local_setup.zsh
+[1.704s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/local_setup.dsv
+[1.704s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/package.dsv
+[1.705s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/ament_index/resource_index/packages/husky-robot
+[1.705s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/cmake/husky-robotConfig.cmake
+[1.705s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/cmake/husky-robotConfig-version.cmake
+[1.705s] -- Installing: /home/sadurac/dev_ws/install/husky-robot/share/husky-robot/package.xml
+[1.715s] Invoked command in '/home/sadurac/dev_ws/build/husky-robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/husky-robot

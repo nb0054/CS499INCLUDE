@@ -1,0 +1,4 @@
+Invoking command in '/home/sadurac/dev_ws/build/husky-robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/husky-robot -- -j4 -l4
+Invoked command in '/home/sadurac/dev_ws/build/husky-robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/husky-robot -- -j4 -l4
+Invoking command in '/home/sadurac/dev_ws/build/husky-robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/husky-robot
+Invoked command in '/home/sadurac/dev_ws/build/husky-robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/husky-robot

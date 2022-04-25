@@ -1,0 +1,25 @@
+[0.873s] Invoking command in '/home/sadurac/dev_ws/src/cv_basics': PYTHONPATH=/home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/sadurac/dev_ws/build/cv_basics/build install --prefix /home/sadurac/dev_ws/install/cv_basics --record /home/sadurac/dev_ws/build/cv_basics/install.log --single-version-externally-managed
+[1.142s] running egg_info
+[1.142s] writing ../../build/cv_basics/cv_basics.egg-info/PKG-INFO
+[1.143s] writing dependency_links to ../../build/cv_basics/cv_basics.egg-info/dependency_links.txt
+[1.143s] writing entry points to ../../build/cv_basics/cv_basics.egg-info/entry_points.txt
+[1.143s] writing requirements to ../../build/cv_basics/cv_basics.egg-info/requires.txt
+[1.143s] writing top-level names to ../../build/cv_basics/cv_basics.egg-info/top_level.txt
+[1.186s] reading manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[1.187s] writing manifest file '../../build/cv_basics/cv_basics.egg-info/SOURCES.txt'
+[1.188s] running build
+[1.188s] running build_py
+[1.188s] copying cv_basics/webcam_sub.py -> /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics
+[1.188s] running install
+[1.189s] running install_lib
+[1.191s] copying /home/sadurac/dev_ws/build/cv_basics/build/lib/cv_basics/webcam_sub.py -> /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics
+[1.191s] byte-compiling /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics/webcam_sub.py to webcam_sub.cpython-38.pyc
+[1.194s] running install_data
+[1.195s] running install_egg_info
+[1.197s] removing '/home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info' (and everything under it)
+[1.197s] Copying ../../build/cv_basics/cv_basics.egg-info to /home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages/cv_basics-0.0.0-py3.8.egg-info
+[1.198s] running install_scripts
+[1.220s] Installing img_publisher script to /home/sadurac/dev_ws/install/cv_basics/lib/cv_basics
+[1.220s] Installing img_subscriber script to /home/sadurac/dev_ws/install/cv_basics/lib/cv_basics
+[1.220s] writing list of installed files to '/home/sadurac/dev_ws/build/cv_basics/install.log'
+[1.254s] Invoked command in '/home/sadurac/dev_ws/src/cv_basics' returned '0': PYTHONPATH=/home/sadurac/dev_ws/install/cv_basics/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_basics build --build-base /home/sadurac/dev_ws/build/cv_basics/build install --prefix /home/sadurac/dev_ws/install/cv_basics --record /home/sadurac/dev_ws/build/cv_basics/install.log --single-version-externally-managed

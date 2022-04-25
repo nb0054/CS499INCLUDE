@@ -1,0 +1,49 @@
+[0.075s] Invoking command in '/home/sadurac/dev_ws/build/my-package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/my-package -- -j4 -l4
+[0.122s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.165s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.505s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.622s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.626s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.628s] -- Added test 'lint_cmake' to check CMake code style
+[0.628s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.632s] -- Added test 'xmllint' to check XML markup files
+[0.636s] -- Configuring done
+[0.638s] -- Generating done
+[0.640s] -- Build files have been written to: /home/sadurac/dev_ws/build/my-package
+[0.675s] Invoked command in '/home/sadurac/dev_ws/build/my-package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/my-package -- -j4 -l4
+[0.735s] Invoking command in '/home/sadurac/dev_ws/build/my-package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/my-package
+[0.751s] -- Install configuration: ""
+[0.751s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/config
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/launch
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/launch/my-package.launch.py
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/maps
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/meshes
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/meshes/arm_base.stl
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/meshes/elbow.stl
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/meshes/robot_base.stl
+[0.752s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/meshes/wheel.stl
+[0.753s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/meshes/bicep.stl
+[0.753s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/meshes/wrist.stl
+[0.754s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/models
+[0.754s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/models/basic_mobile_robot_v1.urdf
+[0.754s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/params
+[0.755s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/rviz
+[0.755s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/rviz/urdf_config.rviz
+[0.755s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/src
+[0.756s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/worlds
+[0.756s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/ament_index/resource_index/package_run_dependencies/my-package
+[0.756s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/ament_index/resource_index/parent_prefix_path/my-package
+[0.756s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/ament_prefix_path.sh
+[0.756s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/ament_prefix_path.dsv
+[0.757s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/path.sh
+[0.757s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/path.dsv
+[0.757s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.bash
+[0.757s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.sh
+[0.757s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.zsh
+[0.758s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.dsv
+[0.758s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/package.dsv
+[0.758s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/ament_index/resource_index/packages/my-package
+[0.758s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/cmake/my-packageConfig.cmake
+[0.759s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/cmake/my-packageConfig-version.cmake
+[0.761s] -- Installing: /home/sadurac/dev_ws/install/my-package/share/my-package/package.xml
+[0.762s] Invoked command in '/home/sadurac/dev_ws/build/my-package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/my-package

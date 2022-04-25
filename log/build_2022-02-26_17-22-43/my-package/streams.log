@@ -1,0 +1,20 @@
+[0.063s] Invoking command in '/home/sadurac/dev_ws/build/my-package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/my-package -- -j4 -l4
+[0.131s] Invoked command in '/home/sadurac/dev_ws/build/my-package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --build /home/sadurac/dev_ws/build/my-package -- -j4 -l4
+[0.200s] Invoking command in '/home/sadurac/dev_ws/build/my-package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/my-package
+[0.222s] -- Install configuration: ""
+[0.222s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/ament_index/resource_index/package_run_dependencies/my-package
+[0.223s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/ament_index/resource_index/parent_prefix_path/my-package
+[0.223s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/ament_prefix_path.sh
+[0.224s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/ament_prefix_path.dsv
+[0.224s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/path.sh
+[0.225s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/environment/path.dsv
+[0.225s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.bash
+[0.225s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.sh
+[0.226s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.zsh
+[0.226s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/local_setup.dsv
+[0.227s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/package.dsv
+[0.227s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/ament_index/resource_index/packages/my-package
+[0.228s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/cmake/my-packageConfig.cmake
+[0.228s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/cmake/my-packageConfig-version.cmake
+[0.228s] -- Up-to-date: /home/sadurac/dev_ws/install/my-package/share/my-package/package.xml
+[0.236s] Invoked command in '/home/sadurac/dev_ws/build/my-package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/sadurac/nav2_ws/install/nav2_gazebo_spawner:/opt/ros/foxy /usr/bin/cmake --install /home/sadurac/dev_ws/build/my-package

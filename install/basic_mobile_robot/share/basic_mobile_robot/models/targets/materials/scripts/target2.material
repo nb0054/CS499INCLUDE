@@ -1,0 +1,14 @@
+material targetMat1/Husky
+{
+ receive_shadows off
+ technique
+ {
+  pass
+   {
+    texture_unit
+    {
+     texture HuskyImg1.jpeg
+    }
+   }
+  }
+ }
