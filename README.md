@@ -2,7 +2,7 @@
 INCLUDE Husky UGV simulation with cv and movement functionality
 
 IMPORTANT NOTE:
--Must be run on Ubuntu or it will not work
+-Must be run on Ubuntu (not a VM) or it will not work (probably)
 
 Install Instructions:
 -clone the repo
@@ -19,3 +19,6 @@ Install Instructions:
     ros2 run cv_basics img_subscriber
   -in the third window run 
     rqt_robot_steering
+
+Demo Link:
+https://www.youtube.com/watch?v=oJj0Hg_x5o0&t=4s
